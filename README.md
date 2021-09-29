@@ -6,6 +6,8 @@ This is a simple Tic Tac Toe game that uses React, it was part of Week 16 of the
 ## How to run: 
 Simply download the files from this repository. Place them in the same file then drag and drop the index.html file into a browser. It may be necessary to run Babel in an HTTP server. 
 
+![bad_bank](https://user-images.githubusercontent.com/71215255/135288457-d4ef1c02-174a-4b9c-b4bb-b70e7fdcbb00.JPG)
+
 ## Roadmap:
 In the future I would like a feature that allows users to set their own colors. Additionally, I would like to add a best two out of three game mode. 
 
